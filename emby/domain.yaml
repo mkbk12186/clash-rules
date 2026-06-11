@@ -2,8 +2,6 @@
 ## 守候网络规则
 ## 2026年6月11日
 payload:
-  - IP-CIDR,83.147.61.152/32
-  - IP-CIDR,104.160.170.190/32
   - DOMAIN,preus.cn2gias.uk
   - DOMAIN,emby.cn2gias.uk
   - DOMAIN-SUFFIX,cn2gias.uk
@@ -25,7 +23,6 @@ payload:
   - DOMAIN-SUFFIX,hinet.jmsooo.com
   - DOMAIN-SUFFIX,cf1.jmsooo.com
   - DOMAIN-SUFFIX,ju.dog
-  - IP-CIDR,202.61.255.248/32
   - DOMAIN-SUFFIX,charontv.com
   - DOMAIN-SUFFIX,misakaf.org
   - DOMAIN-SUFFIX,push-kr.cfprefer3.xyz
