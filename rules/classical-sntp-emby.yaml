@@ -1,5 +1,7 @@
+## Emby影院
+## 守候网络规则
+## 2026年6月11日
 payload:
-  ## Emby影院
   - IP-CIDR,83.147.61.152/32
   - IP-CIDR,104.160.170.190/32
   - DOMAIN,preus.cn2gias.uk
